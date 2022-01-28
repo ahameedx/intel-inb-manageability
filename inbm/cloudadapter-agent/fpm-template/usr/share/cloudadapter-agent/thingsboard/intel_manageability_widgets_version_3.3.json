@@ -1,6 +1,6 @@
 {
   "widgetsBundle": {
-    "alias": "intel_manageability4",
+    "alias": "intel_manageability5",
     "title": "Intel Manageability Widgets NEW 3.X version",
     "image": null,
     "description": null
@@ -115,7 +115,7 @@
       }
     },
     {
-      "alias": "gavin_ota_form1_show_hide",
+      "alias": "tb_ota_form1_show_hide",
       "name": "OTA Form",
       "image": null,
       "description": null,
