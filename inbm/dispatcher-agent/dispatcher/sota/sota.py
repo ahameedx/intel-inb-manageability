@@ -42,6 +42,7 @@ class SOTAUtil:  # FIXME intermediate step in refactor
         @param dispatcher_callbacks: DispatcherCallbacks
         """
         logger.debug("")
+        logger.debug("")
         logger.info(f'Estimate reports we need additional {estimated_size} Bytes for update')
         try:
             dispatcher_callbacks.install_check(size=estimated_size, check_type='check_storage')
